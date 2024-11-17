@@ -1,0 +1,2 @@
+# Notes
+learning project
